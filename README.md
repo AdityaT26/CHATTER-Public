@@ -21,5 +21,5 @@
 
 
 
-#### Anyone interesten in the code can contact me at:  ####
+#### Anyone interested in the code can contact me at:  ####
     adit.thakur26@gmail.com
