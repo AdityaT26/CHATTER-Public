@@ -28,6 +28,8 @@
 #### Possible additions in future updates ####
     | Google assistant integration
     | Chat-Bot integration
+    | Framework update to django
+    | Front-end update to React (Javascript)
     | Groups/Contacts-Pipeline addition
     | Voice Chat
     | Video Chat
