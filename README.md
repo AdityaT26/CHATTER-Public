@@ -14,6 +14,7 @@
     | File Sharing
     | Link sharing
     | Photo sharing
+    | Send Invitations
     | End-To-End Encrypted
     | NO Account Required!
     
@@ -23,3 +24,10 @@
 
 #### Anyone interested in the code can contact me at:  ####
     adit.thakur26@gmail.com
+
+#### Possible additions in future updates ####
+    | Google assistant integration
+    | Chat-Bot integration
+    | Groups/Contacts-Pipeline addition
+    | Voice Chat
+    | Video Chat
