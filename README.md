@@ -22,4 +22,4 @@
 
 
 #### Anyone interesten in the code can contact me at:  ####
-        adit.thakur26@gmail.com
+    adit.thakur26@gmail.com
