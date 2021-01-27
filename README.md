@@ -9,6 +9,8 @@
 
 ### License - MIT ###
 
+### v0.0.8 to v0.0.9(or later) Cross-Chats are not possible due to pipeline update, please update to v0.0.9 or later ###
+
 ## CHATTER™ ##
     | Text Messaging
     | File Sharing
